@@ -1,0 +1,14 @@
+.navbar-brand {
+  font-size: 1.25rem;
+  font-weight: bold;
+  margin-right: 20px;
+}
+
+.store-image {
+  height: 40px;
+  margin-left: 10px;
+}
+
+.nav-space {
+  width: 20px; /* Adjust the width to create the desired space */
+}
